@@ -1,0 +1,10 @@
+@title = "Webmail"
+
+h2. ¿Qué es el webmail?
+
+El sistema de Webmail te permite acceder a tu correo electrónico de riseup.net desde cualquier computadora con una navegador web. No recomendamos este método, por varias razones:
+
+# El Webmail es inherentemente menos seguro que el uso de un cliente de correo.
+# El software de Webmail que ofrece Riseup no tiene muchas características y es ciertamente lento.
+
+La razón principal para usar el webmail es cuando no cuentas con tu propio equipo en el que puedas instalar un cliente de correo. A veces la gente usa el webmail porque no quieren dejar un registro del uso del correo electrónico en el dispositivo. Webmail sin embargo no es una buena solución para esto, porque los navegadores web dejan detrás toda clase de archivos temporales, y los archivos de sesión pueden ser recuperados con herramientas disponibles.
